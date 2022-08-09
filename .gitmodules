@@ -1,0 +1,6 @@
+[submodule "nixos-config"]
+	path = nixos-config
+	url = https://github.com/tnichols217/nixos-config
+[submodule "nixos-program-extensions"]
+	path = nixos-program-extensions
+	url = https://github.com/tnichols217/nixos-program-extensions
